@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: scpivs44_minimum_vcenter_privileges_required.html 
+keywords:  
+summary: Antes de iniciar a implantação do plug-in do SnapCenter para VMware vSphere, você deve ter o mínimo necessário do vCenter Privileges. 
+---
+= Mínimo do vCenter Privileges necessário
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Antes de iniciar a implantação do plug-in do SnapCenter para VMware vSphere, você deve ter o mínimo necessário do vCenter Privileges.
+
+
+
+== Função de administrador do Privileges necessário para o vCenter
+
+VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine.VirtualMachine
+
+
+
+== Necessário Privileges específico para o plug-in SnapCenter para VMware vCenter
+
+NetappSCV.Guest.RestoreFile netappSCV.Recovery.MountUnMount netappSCV.Backup.DeleteBackupJob netappSCV.Configure.ConfigureStorageSystems.Delete netappSCV.View netappSCV.Recovery.RecoverVM netappSCV.Configure.ConfigureStorageSystems.AddUpdate
